@@ -1,7 +1,7 @@
 # plex-to-influx-extended
 Repo for dockerized [KurzonDax/Plex-to-InfluxDB-Extended](https://github.com/KurzonDax/Plex-to-InfluxDB-Extended.git)
 
-This docker image is currently under active development and may have bugs.
+This docker image is currently under active development and may have bugs that are updated.
 
 ## About
 
